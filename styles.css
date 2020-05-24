@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+}
+a{
+  text-decoration: none;
+  color: #11999E;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.copyright{
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+
+h1{
+  margin:50 auto 0 auto;
+  font-family: "Sacramanto",  cursive , serif;
+  color: #66BFBF;
+  font-size: 80px;
+
+}
+h2{
+  color: #66BFBF;
+  font-size: 30px;
+  font-family: cursive;
+}
+h3{
+  color: #11999E;
+  font-size: 20px;
+}
+p{
+  font-size: 15px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin: auto 50px auto auto;
+}
+.chillies{
+  width: 25%;
+  float: right;
+}
+.top-container{
+  background-color: #E4E4E4;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+background-color: #66BFBF;
+padding-top: 30px;
+padding-bottom: 30px;
+margin-top: 20px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.top-cloud{
+  position:absolute;
+  top: 50px;
+  right: 300px;
+
+}
+.footer-link{
+  margin:10px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+.pro{
+  font-style: italic;
+  font-family: monospace;
+}
+.classname {
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #2f6627;
+}.classname:hover {
+	background-color:#5cbf2a;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
